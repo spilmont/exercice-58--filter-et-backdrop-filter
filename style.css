@@ -1,0 +1,148 @@
+.container{
+    width: 650px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.background{
+    width: 500px;
+    height: 300px;
+    background-image: url(image.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+
+}
+
+.background>p{
+    padding: 50px 35%;
+    background-color: rgba(255, 255, 255, 0.2);
+    text-align: center;
+    
+}
+
+.image{
+width: 500px;
+height: 300px;
+}
+ 
+/* exercice 1  */
+
+#blur{
+    /*votre code ici *//* unité :  px */
+
+}
+
+ 
+#brightness{
+    /*votre code ici *//* unité : % */
+
+}
+
+#contrast{
+    /*votre code ici *//* unité : % */
+
+}
+
+#drop-shadow{
+    /*votre code ici *//* unité : px px px color*/
+
+}
+
+#grayscale{
+    /*votre code ici *//* unité : % */
+
+}
+
+#hue-rotate{
+    /*votre code ici *//* unité : deg */
+
+}
+
+#invert{
+    /*votre code ici *//* unité : % */
+
+}
+
+#opacity{
+     /*votre code ici *//* unité : % */
+
+}
+
+#saturate{
+     /*votre code ici *//* unité : % */
+
+}
+
+#sepia{
+    /*votre code ici *//* unité : % */
+
+}
+
+#combiner{
+    /*votre code ici */ /* combiner les filtre grayscale et blur */
+
+}
+
+/*exercice 2 */
+
+#backDrop-blur{
+  
+}
+
+ 
+#backDrop-contrast{
+   
+}
+
+#backDrop-grayscale{
+   
+}
+
+#backDrop-hue-rotate{
+   
+}
+
+#backDrop-invert{
+   
+}
+
+
+#backDrop-saturate{
+    
+}
+
+#backDrop-sepia{
+    
+}
+
+#backDrop-brightness{
+    
+    
+}
+
+#backDrop-combiner{
+    
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
